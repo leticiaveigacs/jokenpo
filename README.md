@@ -31,7 +31,7 @@ Para jogar, basta clicar no link abaixo e iniciar o jogo. Você será apresentad
 
 Você pode ver uma demosnstração do jogo:
 
-- [Assista ao vídeo]( XX)  
+- [Assista ao vídeo](https://github.com/leticiaveigacs/jokenpo/issues/1#issue-2287430791)  
 
 
 ###  Descrição Técnica 💡
