@@ -3,6 +3,9 @@
 ## Sobre o Projeto 
 O Jokenpô é um jogo clássico que envolve habilidade e estratégia. Neste projeto, desenvolvemos uma versão digital utilizando tecnologias web como HTML, CSS e JavaScript.
 
+- [Play](https://leticiaveigacs.github.io/jokenpo/)  
+
+
 ## Regras do Jogo 🎯
 
 O Jokenpô possui regras simples, mas estratégicas. As regras básicas são:
