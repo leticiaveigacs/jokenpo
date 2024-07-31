@@ -1,44 +1,43 @@
 # ✊  Jokenpô: JS  ✌️
 
-## Sobre o Projeto 
-O Jokenpô é um jogo clássico que envolve habilidade e estratégia. Neste projeto, desenvolvemos uma versão digital utilizando tecnologias web como HTML, CSS e JavaScript.
+## About the Project 
+Rock, Paper, Scissors is a classic game that involves skill and strategy. In this project, we developed a digital version using web technologies like HTML, CSS, and JavaScript.
 
 - [Play](https://leticiaveigacs.github.io/jokenpo/)  
 
 
-## Regras do Jogo 🎯
+## Game Rules 🎯
 
-O Jokenpô possui regras simples, mas estratégicas. As regras básicas são:
+Rock, Paper, Scissors has simple but strategic rules. The basic rules are:
 
-- Papel ganha da pedra
-- Pedra ganha da tesoura
-- Tesoura ganha do Papel
-- Papel perde para tesoura
-- Pedra perde para papel
-- Tesoura perde para pedra
+- Paper beats rock
+- Rock beats scissors
+- Scissors beat paper
+- Paper loses to scissors
+- Rock loses to paper
+- Scissors lose to rock
 
-## Como Jogar 🎉
+## How to Play 🎉
 
-Para jogar, basta clicar no link abaixo e iniciar o jogo. Você será apresentado com as opções de escolha: pedra, papel ou tesoura. Após fazer sua escolha, o computador escolherá aleatoriamente a sua jogada. Em seguida, o resultado da rodada será exibido, indicando se você ganhou, perdeu ou empatou.
+To play, simply click the link below and start the game. You will be presented with the options to choose from: rock, paper, or scissors. After making your choice, the computer will randomly select its move. Then, the result of the round will be displayed, indicating whether you won, lost, or drew.
 
-### Como Executar 
+### How to Run 
 
-1. Clone este repositório para o seu ambiente local.
+1. Clone this repository to your local environment:
    ```
-   git https://github.com/leticiaveigacs/jokenpo.git
-   
+   git clone https://github.com/leticiaveigacs/jokenpo.git
    ```
-2. Abra o arquivo `index.html` em seu navegador da web.
+2. Open the `index.html` file in your web browser.
 
 ### Video 💻
 
-Você pode ver uma demosnstração do jogo:
+You can watch a demonstration of the game here:
 
-- [Assista ao vídeo](https://github.com/leticiaveigacs/jokenpo/issues/1#issue-2287430791)  
+- [Watch the video](https://github.com/leticiaveigacs/jokenpo/issues/1#issue-2287430791)  
 
 
-###  Descrição Técnica 💡
+### Technical Description 💡
 
--O HTML foi utilizado de forma semântica para estruturar o conteúdo da página, enquanto o CSS foi aplicado para estilizar e tornar a interface do jogo visualmente atraente em diferentes dispositivos.
+HTML was used semantically to structure the content of the page, while CSS was applied to style and make the game interface visually appealing across different devices.
 
-O JavaScript foi empregado para criar a lógica do jogo, permitindo que o jogador interaja com a interface e implementando as regras do Jokenpô.
+JavaScript was used to create the game logic, allowing the player to interact with the interface and implementing the rules of Rock, Paper, Scissors.
