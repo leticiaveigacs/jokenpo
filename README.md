@@ -38,6 +38,6 @@ You can watch a demonstration of the game here:
 
 ### Technical Description 💡
 
-HTML was used to structure the content of the page, while CSS was applied to style and make the game interface visually appealing across different devices.
+HTML was used to structure the content of the page, while CSS was applied to style and make the game interface visually appealing.
 
 JavaScript was used to create the game logic, allowing the player to interact with the interface and implementing the rules of Rock, Paper, Scissors.
